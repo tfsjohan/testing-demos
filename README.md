@@ -2,11 +2,11 @@
 
 Tre körbara demoprojekt som hör till presentationen. Alla tester är gröna.
 
-| Mapp | Stack | Kör | Tester |
-|---|---|---|---|
-| [`dotnet/`](dotnet/) | xUnit, NSubstitute, Bogus, WebApplicationFactory | `dotnet test` | 13 |
-| [`typescript/`](typescript/) | Jest, ts-jest | `npm install && npm test` | 8 |
-| [`office-addin/`](office-addin/) | Jest, office-addin-mock | `npm install && npm test` | 6 |
+| Mapp | Stack | Kör |
+|---|---|---|
+| [`dotnet/`](dotnet/) | xUnit, NSubstitute, Bogus, WebApplicationFactory | `dotnet test` |
+| [`typescript/`](typescript/) | Jest, ts-jest | `npm install && npm test` |
+| [`office-addin/`](office-addin/) | Jest, office-addin-mock | `npm install && npm test` |
 
 ## Röd tråd mellan demosen
 
