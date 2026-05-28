@@ -1,0 +1,16 @@
+{
+  "name": "testing-demo-office-addin",
+  "version": "1.0.0",
+  "description": "Testa en Office.js task pane-funktion med office-addin-mock",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/office-js": "^1.0.377",
+    "jest": "^29.7.0",
+    "office-addin-mock": "^2.4.4",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.3"
+  }
+}

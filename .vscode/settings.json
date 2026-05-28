@@ -1,0 +1,14 @@
+{
+  "jest.virtualFolders": [
+    {
+      "name": "office-addin",
+      "rootPath": "demos/office-addin",
+      "jestCommandLine": "npm test --"
+    },
+    {
+      "name": "typescript",
+      "rootPath": "demos/typescript",
+      "jestCommandLine": "npm test --"
+    }
+  ]
+}
